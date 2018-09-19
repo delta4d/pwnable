@@ -1,5 +1,5 @@
 - [x] [fd](fd.md)
-- [ ] [collision](collision.md)
+- [x] [collision](collision.md)
 - [ ] [bof](bof.md)
 - [ ] [flag](flag.md)
 - [ ] [passcode](passcode.md)
