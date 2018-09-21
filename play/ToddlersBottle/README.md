@@ -1,7 +1,7 @@
 - [x] [fd](fd.md)
 - [x] [collision](collision.md)
 - [x] [bof](bof.md)
-- [ ] [flag](flag.md)
+- [x] [flag](flag.md)
 - [ ] [passcode](passcode.md)
 - [ ] [random](random.md)
 - [ ] [input](input.md)
